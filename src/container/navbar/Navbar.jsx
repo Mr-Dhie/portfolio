@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 function Navbar() {
   return (
     <div>
-        <Link to="/">Navbar</Link>
+        <Link to="/portfolio">Navbar</Link>
       </div>
   )
 }

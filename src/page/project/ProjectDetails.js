@@ -4,7 +4,7 @@ const ProjectDetails =[
     {
         title: "social-links-profile-main",
         image: image1,
-        link : "/project/p1"
+        link : "/portfolio/project/p1"
     },
 ]
 
