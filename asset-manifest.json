@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4b82128e.css",
-    "main.js": "/portfolio/static/js/main.8900a7a0.js",
+    "main.js": "/portfolio/static/js/main.0ed87494.js",
     "static/media/robots-meta.svg": "/portfolio/static/media/robots-meta.001375b30662e2651a67c118b146693b.svg",
     "static/media/mobile-design.jpg": "/portfolio/static/media/mobile-design.47ea7e2d6a9b814cf9ec.jpg",
     "index.html": "/portfolio/index.html",
     "main.4b82128e.css.map": "/portfolio/static/css/main.4b82128e.css.map",
-    "main.8900a7a0.js.map": "/portfolio/static/js/main.8900a7a0.js.map"
+    "main.0ed87494.js.map": "/portfolio/static/js/main.0ed87494.js.map"
   },
   "entrypoints": [
     "static/css/main.4b82128e.css",
-    "static/js/main.8900a7a0.js"
+    "static/js/main.0ed87494.js"
   ]
 }
